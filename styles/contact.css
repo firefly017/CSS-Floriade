@@ -31,6 +31,25 @@
   float: right;
 }
 
+.contact .headline {
+  color: #1f2937;
+  font-size: 48px;
+  font-weight: 700;
+}
+
+.contact .callInfo {
+  font-size: 36px;
+  font-weight: lighter;
+  color: #1f2937;
+}
+
+#callFloriade {
+  display: flex;
+  margin: auto;
+  width: 800px;
+  height: auto;
+}
+
 .footer {
   background-color: #1f2937;
   font-size: 18px;
