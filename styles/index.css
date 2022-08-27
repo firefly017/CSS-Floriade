@@ -33,7 +33,18 @@
 
 .header-text {
   color: white;
-  width: 50rem;
+  width: 70rem;
+}
+
+.header-text .headline {
+  font-size: 48px;
+  font-weight: 800;
+  color: #f9faf8;
+}
+
+.header-text .introText {
+  font-size: 18px;
+  color: #e5e7eb;
 }
 
 .header-text .button {
@@ -44,11 +55,12 @@
 #goGreen {
   width: 300px;
   height: auto;
-  float: left;
-}
-.header-image {
   float: right;
 }
+
+/*.header-image {
+  float: right;
+} */
 
 .info {
   padding: 100px;
