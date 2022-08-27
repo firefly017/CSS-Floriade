@@ -1,0 +1,65 @@
+.header {
+  background-color: #1f2937;
+  overflow: hidden;
+  padding: 20px 10px;
+}
+
+.logo img {
+  width: 5.125rem;
+  height: 3.125rem;
+  border: #1f2937;
+  border-radius: 40%;
+}
+
+.header a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 25px;
+  border-radius: 4px;
+  font-weight: bolder;
+}
+.header a:hover {
+  background-color: #ddd;
+  color: rgb(26, 175, 34);
+}
+
+.header-right {
+  float: right;
+}
+
+.info .headline {
+  color: #1f2937;
+  font-size: 48px;
+  font-weight: 700;
+}
+
+.info .secondHl {
+  color: #1f2937;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.info .infoText {
+  font-size: 24px;
+  font-weight: lighter;
+  color: #1f2937;
+}
+
+#floriadeImage {
+  display: flex;
+  margin: auto;
+  width: 800px;
+  height: auto;
+}
+
+.footer {
+  background-color: #1f2937;
+  font-size: 18px;
+  color: #e5e7eb;
+  padding: 10px;
+  text-align: center;
+}
